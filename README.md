@@ -23,7 +23,7 @@ I am looking for **young, like-minded developers** to collaborate with! If you a
 ### 📫 Get in Touch:
 - **Email:** ayyanahmed2356@gmail.com
 - **Phone:** +92 335 4319277
-- **Instagram:** https://www.instagram.com/idgaf_ayyan?igsh=MTd2dDhmaXB2Z2RydA==
+- **Instagram:** https://www.instagram.com/code_with_ayyan?igsh=OXI2bHFxcW1zeWJm
 
 ---
 *"The best way to predict the future is to create it."*
