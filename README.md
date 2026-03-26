@@ -4,7 +4,7 @@
 I am a **17-year-old passionate Python Developer** on a journey to master **Artificial Intelligence (AI)** and **Machine Learning (ML)**. My goal is to build innovative solutions and start my own **Tech Startup**.
 
 ### 🌟 About Me:
-- 🐍 Currently deep-diving into **Python** and automation projects.
+- 🐍 Currently deep-diving into **Python** and Data science libraries.
 - 🤖 Aspiring **AI/ML Engineer**.
 - 🚀 Entrepreneurial mindset — always looking for the next big idea.
 - 🇵🇰 Based in Pakistan.
