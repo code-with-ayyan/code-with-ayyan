@@ -1,39 +1,79 @@
-# Hi there, I'm Ayyan! 👋
+# Hi there, I'm Ayyan 👋
 
-I am a **17-year-old passionate Python Developer** on a journey to master **Artificial Intelligence (AI), Machine Learning (ML), and Robust Backend Development**. My goal is to build innovative, data-driven solutions and start my own **Tech Startup**.
+🚀 Python Developer | Aspiring AI/ML Engineer & Backend Developer  
+🇵🇰 Based in Pakistan  
 
-### 🌟 About Me:
-- 🐍 Deep-diving into **Python**, Data Science libraries, and Advanced Backend Frameworks.
-- ⚡ **Backend & API Developer:** Building high-performance, asynchronous REST APIs using **FastAPI** and **Pydantic** data validation.
-- 🗄️ **Database Management:** Working with relational (**PostgreSQL**, **MySQL**) and NoSQL (**MongoDB**) databases to build persistent, scalable applications.
-- 🤖 Aspiring **Full-Stack AI/ML Engineer** — bridging the gap between intelligent models and production-ready server architecture.
-- 🚀 Entrepreneurial mindset — always looking for the next big idea.
-- 🇵🇰 Based in Pakistan.
+I am a passionate developer focused on building scalable backend systems and exploring Artificial Intelligence. My goal is to combine **AI + Backend Engineering** to create real-world, production-ready applications and eventually launch my own tech startup.
 
-### 🛠️ Tech Stack & Tools:
-- **Languages:** Python
-- **Backend & APIs:** FastAPI, Pydantic, Postman, Uvicorn
-- **Data Science & ML:** Pandas, NumPy, Matplotlib, Seaborn
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **OS & Environment:** Linux (Ubuntu), VS Code, Git/GitHub
+---
 
-### 🤝 Let's Build a Team!
-I am looking for **young, like-minded developers** to collaborate with! If you are passionate about coding, backend architecture, AI, or building startups, let's connect and build something great together. 
-- **Looking for:** Frontend/Backend devs, UI/UX designers, and AI enthusiasts.
-- **Goal:** To form a solid tech team for future ventures and startups.
-- **Dosti/Networking:** Always down for a chat about tech, database management, and innovation!
+## 🌱 About Me
+- 🐍 Learning Python deeply with focus on clean code and problem solving  
+- ⚡ Backend Developer using **FastAPI** for building fast and scalable REST APIs  
+- 🗄️ Working with **SQL (PostgreSQL, MySQL)** and **NoSQL (MongoDB)** databases  
+- 🤖 Exploring **Machine Learning & AI integration with backend systems**  
+- 🚀 Interested in building real-world products, not just tutorials  
+- 🎯 Long-term goal: AI + Backend Engineer & Startup Founder  
 
-### 📈 My Goals:
-- [ ] Complete robust full-stack backend integrations (FastAPI + SQL/NoSQL).
-- [ ] Master AI/ML Frameworks and seamlessly deploy models via APIs.
-- [ ] Build a community/team of talented developers.
-- [ ] Launch my first startup.
+---
 
-### 📫 Get in Touch:
+## 🛠️ Tech Stack
+
+**Languages:**
+- Python
+
+**Backend Development:**
+- FastAPI
+- Pydantic
+- Uvicorn
+- REST APIs
+- Postman
+
+**Databases:**
+- PostgreSQL
+- MySQL
+- MongoDB
+
+**AI / ML:**
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn (learning phase)
+
+**Tools & Environment:**
+- Linux (Ubuntu)
+- Git & GitHub
+- VS Code
+  
+---
+
+## 🤝 Collaboration
+
+I am open to connecting with developers and learners who are interested in:
+- Backend Development (FastAPI / APIs)
+- Artificial Intelligence & Machine Learning
+- System Design & Scalable Architectures
+- Startup ideas & collaboration
+
+Let’s learn and build together.
+
+---
+
+## 📈 Goals
+- [ ] Build strong backend systems using FastAPI  
+- [ ] Deploy AI models using APIs  
+- [ ] Improve system design understanding  
+- [ ] Build a strong GitHub portfolio  
+- [ ] Work on real-world scalable projects  
+- [ ] Start my own tech startup in future  
+
+---
+
+## 📫 Contact
 - **Email:** ayyanahmed2356@gmail.com
 - **Phone:** +92 335 4319277
 - **Instagram:** https://www.instagram.com/code_with_ayyan?igsh=OXI2bHFxcW1zeWJm
 - **Linkedin:** www.linkedin.com/in/ayyan-ahmed-a318413b8
-
 ---
-*"The best way to predict the future is to create it."*
+
+> “Build things that solve real problems.”
