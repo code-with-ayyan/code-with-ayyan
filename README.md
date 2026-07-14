@@ -1,6 +1,6 @@
 # Hi there, I'm Ayyan 👋
 
-🚀 Python Developer | Aspiring AI/ML Engineer & Backend Developer  
+🚀 Python Developer | Aspiring AI/ML Engineer 
 🇵🇰 Based in Pakistan  
 
 I am a passionate developer focused on building scalable backend systems and exploring Artificial Intelligence. My goal is to combine **AI + Backend Engineering** to create real-world, production-ready applications and eventually launch my own tech startup.
@@ -10,9 +10,8 @@ I am a passionate developer focused on building scalable backend systems and exp
 ## 🌱 About Me
 - 🐍 Learning Python deeply with focus on clean code and problem solving  
 - ⚡ Backend Developer using **FastAPI** for building fast and scalable REST APIs  
-- 🗄️ Working with **SQL (PostgreSQL, MySQL)** and **NoSQL (MongoDB)** databases  
+- 🗄️ Working with **SQL (PostgreSQL, MySQL)**   
 - 🤖 Exploring **Machine Learning & AI integration with backend systems**  
-- 🚀 Interested in building real-world products, not just tutorials  
 - 🎯 Long-term goal: AI + Backend Engineer & Startup Founder  
 
 ---
@@ -32,7 +31,6 @@ I am a passionate developer focused on building scalable backend systems and exp
 **Databases:**
 - PostgreSQL
 - MySQL
-- MongoDB
 
 **AI / ML:**
 - NumPy
