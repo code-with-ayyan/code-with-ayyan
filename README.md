@@ -1,77 +1,106 @@
 # Hi there, I'm Ayyan 👋
 
-🚀 Python Developer | Aspiring AI/ML Engineer 
-🇵🇰 Based in Pakistan  
+🚀 Aspiring AI/ML Engineer | Python Developer
+🇵🇰 Based in Pakistan
 
-I am a passionate developer focused on building scalable backend systems and exploring Artificial Intelligence. My goal is to combine **AI + Backend Engineering** to create real-world, production-ready applications and eventually launch my own tech startup.
+I am passionate about **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy learning machine learning algorithms from scratch, understanding the mathematics behind them, and building complete end-to-end ML projects.
 
----
-
-## 🌱 About Me
-- 🐍 Learning Python deeply with focus on clean code and problem solving  
-- ⚡ Backend Developer using **FastAPI** for building fast and scalable REST APIs  
-- 🗄️ Working with **SQL (PostgreSQL, MySQL)**   
-- 🤖 Exploring **Machine Learning & AI integration with backend systems**  
-- 🎯 Long-term goal: AI + Backend Engineer & Startup Founder  
+My goal is to become an AI/ML Engineer capable of building intelligent systems that solve real-world problems and eventually launch my own AI startup.
 
 ---
 
-## 🛠️ Tech Stack
+# 🌱 About Me
 
-**Languages:**
-- Python
-
-**Backend Development:**
-- FastAPI
-- Pydantic
-- Uvicorn
-- REST APIs
-- Postman
-
-**Databases:**
-- PostgreSQL
-- MySQL
-
-**AI / ML:**
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn (learning phase)
-
-**Tools & Environment:**
-- Linux (Ubuntu)
-- Git & GitHub
-- VS Code
-  
----
-
-## 🤝 Collaboration
-
-I am open to connecting with developers and learners who are interested in:
-- Backend Development (FastAPI / APIs)
-- Artificial Intelligence & Machine Learning
-- System Design & Scalable Architectures
-- Startup ideas & collaboration
-
-Let’s learn and build together.
+* 🐍 Passionate about Python programming and problem solving
+* 🤖 Learning Machine Learning from theory, mathematics, and from-scratch implementations
+* 📊 Building complete Machine Learning projects from data preprocessing to model evaluation
+* 📈 Exploring statistics, feature engineering, feature selection, and model optimization
+* ⚡ Familiar with FastAPI for deploying Machine Learning models as REST APIs
+* 🐧 Linux (Ubuntu) user
+* 🎯 Goal: Become a professional AI/ML Engineer
 
 ---
 
-## 📈 Goals
-- [ ] Build strong backend systems using FastAPI  
-- [ ] Deploy AI models using APIs  
-- [ ] Improve system design understanding  
-- [ ] Build a strong GitHub portfolio  
-- [ ] Work on real-world scalable projects  
-- [ ] Start my own tech startup in future  
+# 🛠️ Tech Stack
+
+### Programming
+
+* Python
+
+### Data Science
+
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+
+### Machine Learning
+
+* Scikit-learn
+* Statistics
+* Feature Engineering
+* Feature Selection
+* Data Preprocessing
+* Model Evaluation
+
+### AI Deployment
+
+* FastAPI (Basics)
+* REST APIs
+
+### Tools
+
+* Linux (Ubuntu)
+* Git & GitHub
+* Jupyter Notebook
+* VS Code
 
 ---
 
-## 📫 Contact
-- **Email:** ayyanahmed2356@gmail.com
-- **Phone:** +92 335 4319277
-- **Instagram:** https://www.instagram.com/code_with_ayyan?igsh=OXI2bHFxcW1zeWJm
-- **Linkedin:** www.linkedin.com/in/ayyan-ahmed-a318413b8
+# 📚 Currently Learning
+
+* Machine Learning Algorithms
+* Mathematics for Machine Learning
+* Linear Algebra
+* Probability & Statistics
+* Deep Learning
+* Computer Vision
+* Natural Language Processing (NLP)
+* Generative AI
+* Model Deployment
+
 ---
 
-> “Build things that solve real problems.”
+# 🤝 Open to Collaborate
+
+* Machine Learning Projects
+* AI Research & Applications
+* Open Source AI Projects
+* Python Projects
+* Data Science Projects
+
+---
+
+# 🎯 Goals
+
+* [ ] Master Machine Learning algorithms from scratch
+* [ ] Build real-world AI applications
+* [ ] Learn Deep Learning
+* [ ] Learn Computer Vision & NLP
+* [ ] Build production-ready AI systems
+* [ ] Create a strong AI/ML portfolio
+* [ ] Contribute to Open Source
+* [ ] Launch an AI startup
+
+---
+
+# 📫 Contact
+
+* **Email:** [ayyanahmed2356@gmail.com](mailto:ayyanahmed2356@gmail.com)
+* **LinkedIn:** [www.linkedin.com/in/ayyan-ahmed-a318413b8](http://www.linkedin.com/in/ayyan-ahmed-a318413b8)
+* **Instagram:** https://www.instagram.com/code_with_ayyan
+
+---
+
+> **"Learning the mathematics behind AI. Building intelligent systems for the future."**
+
