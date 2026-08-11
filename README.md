@@ -97,7 +97,6 @@ My goal is to become an AI/ML Engineer capable of building intelligent systems t
 # 📫 Contact
 
 * **Email:** [ayyanahmed2356@gmail.com](mailto:ayyanahmed2356@gmail.com)
-* **LinkedIn:** [www.linkedin.com/in/ayyan-ahmed-a318413b8](http://www.linkedin.com/in/ayyan-ahmed-a318413b8)
 * **Instagram:** https://www.instagram.com/code_with_ayyan
 
 ---
