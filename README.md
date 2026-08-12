@@ -1,105 +1,114 @@
-# Hi there, I'm Ayyan 👋
 
-🚀 Aspiring AI/ML Engineer | Python Developer
+# Hi, I'm Ayyan 👋
+
+🐍 Python Developer | 🤖 AI & Machine Learning Enthusiast  
 🇵🇰 Based in Pakistan
 
-I am passionate about **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy learning machine learning algorithms from scratch, understanding the mathematics behind them, and building complete end-to-end ML projects.
+I am focused on learning **Artificial Intelligence and Machine Learning** by understanding the fundamentals, mathematics, and algorithms behind them.
 
-My goal is to become an AI/ML Engineer capable of building intelligent systems that solve real-world problems and eventually launch my own AI startup.
-
----
-
-# 🌱 About Me
-
-* 🐍 Passionate about Python programming and problem solving
-* 🤖 Learning Machine Learning from theory, mathematics, and from-scratch implementations
-* 📊 Building complete Machine Learning projects from data preprocessing to model evaluation
-* 📈 Exploring statistics, feature engineering, feature selection, and model optimization
-* ⚡ Familiar with FastAPI for deploying Machine Learning models as REST APIs
-* 🐧 Linux (Ubuntu) user
-* 🎯 Goal: Become a professional AI/ML Engineer
+I enjoy building Machine Learning projects from **data preprocessing and model development to evaluation and deployment**.
 
 ---
 
-# 🛠️ Tech Stack
+## 🌱 About Me
+
+- 🐍 Building projects with Python
+- 🤖 Learning Machine Learning algorithms from scratch
+- 📊 Working on end-to-end Machine Learning projects
+- 📈 Learning Statistics, Feature Engineering, and Model Evaluation
+- ⚡ Learning FastAPI for Machine Learning model deployment
+- 💻 Starting C++ and Data Structures & Algorithms
+- 🐧 Linux (Ubuntu) user
+- 🎯 Focused on becoming a professional AI/ML Engineer
+
+---
+
+## 🛠️ Tech Stack
 
 ### Programming
 
-* Python
+- Python
+- C++ (Learning)
+- Data Structures & Algorithms (Starting)
 
 ### Data Science
 
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
 
 ### Machine Learning
 
-* Scikit-learn
-* Statistics
-* Feature Engineering
-* Feature Selection
-* Data Preprocessing
-* Model Evaluation
+- Scikit-learn
+- Data Preprocessing
+- Feature Engineering
+- Feature Selection
+- Model Evaluation
+- Machine Learning Algorithms from Scratch
 
-### AI Deployment
+### Deployment
 
-* FastAPI (Basics)
-* REST APIs
+- Streamlit
+- FastAPI for ML
+- REST APIs
 
 ### Tools
 
-* Linux (Ubuntu)
-* Git & GitHub
-* Jupyter Notebook
-* VS Code
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+- Linux (Ubuntu)
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-* Machine Learning Algorithms
-* Mathematics for Machine Learning
-* Linear Algebra
-* Probability & Statistics
-* Deep Learning
-* Computer Vision
-* Natural Language Processing (NLP)
-* Generative AI
-* Model Deployment
-
----
-
-# 🤝 Open to Collaborate
-
-* Machine Learning Projects
-* AI Research & Applications
-* Open Source AI Projects
-* Python Projects
-* Data Science Projects
+- Machine Learning Algorithms
+- Mathematics for Machine Learning
+- Statistics & Probability
+- Linear Algebra
+- C++ Programming
+- Data Structures & Algorithms
+- FastAPI for Machine Learning
+- Deep Learning
 
 ---
 
-# 🎯 Goals
+## 🎯 Current Focus
 
-* [ ] Master Machine Learning algorithms from scratch
-* [ ] Build real-world AI applications
-* [ ] Learn Deep Learning
-* [ ] Learn Computer Vision & NLP
-* [ ] Build production-ready AI systems
-* [ ] Create a strong AI/ML portfolio
-* [ ] Contribute to Open Source
-* [ ] Launch an AI startup
-
----
-
-# 📫 Contact
-
-* **Email:** [ayyanahmed2356@gmail.com](mailto:ayyanahmed2356@gmail.com)
-* **Instagram:** https://www.instagram.com/code_with_ayyan
+```text
+Python
+   ↓
+Machine Learning Fundamentals
+   ↓
+Algorithms from Scratch
+   ↓
+C++ & DSA
+   ↓
+FastAPI & Model Deployment
+   ↓
+Deep Learning
+```
 
 ---
 
-> **"Learning the mathematics behind AI. Building intelligent systems for the future."**
+## 🤝 Open to Collaborate
+
+- Machine Learning Projects
+- AI Projects
+- Python Projects
+- Data Science Projects
+- Open Source Projects
+
+---
+
+## 📫 Contact
+
+- **Email:** ayyanahmed2356@gmail.com
+- **Instagram:** [@codewithayyan_](https://www.instagram.com/codewithayyan_/)
+
+---
+
+> Learning the fundamentals. Building with code. Growing in AI & Machine Learning.
 
