@@ -50,6 +50,7 @@ I enjoy building Machine Learning projects from **data preprocessing and model d
 ### Deployment
 
 - Streamlit
+- AWS EC2
 - FastAPI for ML
 - REST APIs
 
@@ -71,6 +72,7 @@ I enjoy building Machine Learning projects from **data preprocessing and model d
 - C++ Programming
 - Data Structures & Algorithms
 - FastAPI for Machine Learning
+- AWS Deployement
 - Deep Learning
 
 ---
@@ -106,7 +108,7 @@ Deep Learning
 ## 📫 Contact
 
 - **Email:** ayyanahmed2356@gmail.com
-- **Instagram:** [@codewithayyan_](https://www.instagram.com/codewithayyan_/)
+- **Instagram:** [@_dgaf_ayyan](https://www.instagram.com/_dgaf_ayyan/)
 
 ---
 
